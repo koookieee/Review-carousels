@@ -7,7 +7,7 @@ Other than this, I have used Reactjs to form components and map them into the Ca
  style this according to your need and make ufufu love into something cooler;)
 
 
-!alt[ss1.jpg]
+![alt](ss1.jpg)
 
 
 
@@ -19,7 +19,7 @@ Other than this, I have used Reactjs to form components and map them into the Ca
 
 
 
-!alt[ss2.png]
+![alt](ss2.png)
 
 
 # Getting Started with Create React App
