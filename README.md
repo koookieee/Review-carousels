@@ -7,7 +7,7 @@
  ## style this according to your need and make ufufu love into something cooler
 
 
-![alt text](ss2.png)
+![Alt text](ss2.png)
 <!-- ![Alt text](ss2.png) -->
 
 
