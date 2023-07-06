@@ -1,24 +1,13 @@
 **Review Carousels**
 The Interactive carousels that pop up when hovered over and the confetti animation are styled using css, javascript
 Yes! you can do this using just css and javascript.
-Other than this, I have used Reactjs to form components and map them into the Card conatiner instead of hard-coding :)
+Other than this, I have used Reactjs to form components and map them into the Card conatiner instead of hard-coding
 
 
- style this according to your need and make ufufu love into something cooler;)
+ style this according to your need and make ufufu love into something cooler
 
 
 ![Alt text](ss1.jpg)
-
-
-
-
-
-
-
-
-
-
-
 ![Alt text](ss2.png)
 
 
