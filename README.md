@@ -7,8 +7,8 @@ Other than this, I have used Reactjs to form components and map them into the Ca
  style this according to your need and make ufufu love into something cooler
 
 
-![Alt text](ss1.jpg)
-![Alt text](ss2.png)
+![Alt text](ss1.png)
+<!-- ![Alt text](ss2.png) -->
 
 
 # Getting Started with Create React App
