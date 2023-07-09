@@ -7,7 +7,7 @@
 
 
 ![Alt text](Screenshot from 2023-07-09 18-40-52.png)
-![Alt text](Screenshot from 2023-07-09 18-42-18.png)
+<!-- ![Alt text](Screenshot from 2023-07-09 18-42-18.png) -->
 
 <!-- ![Alt text](ss2.png) -->
 
