@@ -17,7 +17,7 @@ const Header = () => {
   <div class="confetti-piece"></div>
   <div class="confetti-piece"></div>
   <div class="confetti-piece"></div>
-  <div class="icon">~Ufufu 💕 Love!</div>
+  <div class="icon">~Hear what our clients say!</div>
 </div>
     </div>
   );
