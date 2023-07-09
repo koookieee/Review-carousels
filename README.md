@@ -4,10 +4,9 @@
  Other than this, I have used Reactjs to form components and map them into the Card conatiner instead of hard-coding
 
 
- ## style this according to your need and make ufufu love into something cooler
 
 
-![Alt text](scr.png)
+![Alt text](Scr.png)
 <!-- ![Alt text](ss2.png) -->
 
 
